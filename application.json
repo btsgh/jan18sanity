@@ -71,6 +71,10 @@
     {
       "id": "InputCustomWidgetTest",
       "isDefault": false
+    },
+    {
+      "id": "Gac",
+      "isDefault": false
     }
   ],
   "viewMode": false,
