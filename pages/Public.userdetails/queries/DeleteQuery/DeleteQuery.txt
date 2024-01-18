@@ -1,0 +1,2 @@
+DELETE FROM public."userdetails"
+  WHERE "last_name" = {{data_table.triggeredRow.last_name}};

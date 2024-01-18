@@ -75,6 +75,10 @@
     {
       "id": "Gac",
       "isDefault": false
+    },
+    {
+      "id": "Public.userdetails",
+      "isDefault": false
     }
   ],
   "viewMode": false,
